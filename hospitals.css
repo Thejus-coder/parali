@@ -1,0 +1,16 @@
+.new{
+    height:auto;
+    color:rgb(250, 250, 250);
+    background-color:rgb(8, 94, 34);
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 20px;
+}
+.card-div{
+width: 100%;
+padding-left: 40px;
+}
+.righttop{
+    color: yellow;
+    font-weight: bold;
+}
